@@ -11,7 +11,7 @@ public class AddressBookClass {
     static Scanner sc = new Scanner(System.in);
 
     public static void main(String[] args) {
-        System.out.println("Welcome to Address Book System Using CSV and ");
+        System.out.println("Welcome to Address Book System Using CSV and JSON");
 
         String filePath = "C:\\Users\\manea\\IdeaProjects\\day28_AddressBook\\";
 
